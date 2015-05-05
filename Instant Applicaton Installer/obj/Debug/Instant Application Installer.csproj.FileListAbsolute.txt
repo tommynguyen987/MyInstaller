@@ -1,0 +1,33 @@
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Instant Application Installer.exe.config
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Instant Application Installer.exe
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Instant Application Installer.pdb
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\InstantApplicationInstaller.Properties.Resources.resources
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Instant Application Installer.csproj.GenerateResource.Cache
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Instant Application Installer.exe
+D:\MY\Instant Application Installer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Instant Application Installer.pdb
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\bin\Debug\Instant Application Installer.exe.config
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\bin\Debug\Instant Application Installer.exe
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\bin\Debug\Instant Application Installer.pdb
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\obj\Debug\InstantApplicationInstaller.frmApplication.resources
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\obj\Debug\InstantApplicationInstaller.Properties.Resources.resources
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\obj\Debug\Instant Application Installer.csproj.GenerateResource.Cache
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\obj\Debug\Instant Application Installer.exe
+D:\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\obj\Debug\Instant Application Installer.pdb
+D:\SHARE\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\bin\Debug\Instant Application Installer.exe.config
+D:\SHARE\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\obj\Debug\Instant Application Installer.exe
+D:\SHARE\MY\Instant Application Installer\Instant Application Installer\Instant Application Installer\obj\Debug\Instant Application Installer.pdb
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Debug\Instant Application Installer.exe.config
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Debug\Instant Application Installer.exe.manifest
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Debug\Instant Application Installer.application
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Debug\Instant Application Installer.exe
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Debug\Instant Application Installer.pdb
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Debug\System.Data.SQLite.dll
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\Instant Application Installer.csprojResolveAssemblyReference.cache
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\InstantApplicationInstaller.frmApplication.resources
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\InstantApplicationInstaller.Properties.Resources.resources
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\Instant Application Installer.csproj.GenerateResource.Cache
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\Instant Application Installer.exe.manifest
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\Instant Application Installer.application
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\Instant Application Installer.exe
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Debug\Instant Application Installer.pdb

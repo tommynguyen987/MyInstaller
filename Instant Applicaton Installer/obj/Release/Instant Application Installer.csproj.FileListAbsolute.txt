@@ -1,0 +1,21 @@
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\Instant Application Installer.exe.config
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\Instant Application Installer.exe.manifest
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\Instant Application Installer.application
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\Instant Application Installer.exe
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\Instant Application Installer.pdb
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\GoogleSearchAPI.dll
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\Newtonsoft.Json.dll
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\System.Data.SQLite.dll
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\Instant Application Installer.csprojResolveAssemblyReference.cache
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\InstantApplicationInstaller.frmBrowser.resources
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\InstantApplicationInstaller.frmApplication.resources
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\InstantApplicationInstaller.Progress.resources
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\InstantApplicationInstaller.Properties.Resources.resources
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\Instant Application Installer.csproj.GenerateResource.Cache
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\Instant Application Installer.exe.manifest
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\Instant Application Installer.application
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\Instant Application Installer.exe
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\Instant Application Installer.pdb
+D:\SHARE\MY\Linh tinh\Instant Application Installer\bin\Release\CopyFiles.dll
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\InstantApplicationInstaller.BrowserControl.resources
+D:\SHARE\MY\Linh tinh\Instant Application Installer\obj\Release\InstantApplicationInstaller.ExtendedWebBrowser.resources
